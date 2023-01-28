@@ -63,3 +63,20 @@ h1, h2, h3, h4, p {
     background-image: url("images/gift.png");
     background-size: cover;
 }
+
+#gift-img-happy:hover {
+    background-image: url("images/happy.gif");
+}
+
+#gift-img-hot:hover {
+    background-image: url("images/wink.gif");
+}
+
+#gift-img-cheers {
+    height: 400px;
+    width: 400px;
+}
+
+#gift-img-cheers:hover {
+    background-image: url("images/cheers.gif");
+}
